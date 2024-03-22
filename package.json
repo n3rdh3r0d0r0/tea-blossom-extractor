@@ -1,0 +1,34 @@
+{
+  "name": "tea-blossom-extractor",
+  "version": "1.0.0",
+  "description": "Extract and manage tea-related data with Tea Blossom Extractor, offering data extraction and processing capabilities.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/n3rdh3rd3r/tea-blossom-extractor"
+  },
+  "author": "n3rdh3rd3r",
+  "license": "MIT",
+  "dependencies": {
+    "tea-blossom-vault": "1.0.0",
+    "tea-blossom-extractor": "1.0.0",
+    "bluebird": "1.0.0",
+    "ethereumjs-tx": "1.0.0",
+    "ethereumjs-util": "1.0.0",
+    "socket.io": "1.0.0",
+    "lodash": "1.0.0",
+    "moment": "1.0.0",
+    "redux": "1.0.0",
+    "mongoose": "1.0.0",
+    "express": "1.0.0",
+    "axios": "1.0.0",
+    "dotenv": "1.0.0",
+    "react": "1.0.0",
+    "sequelize": "1.0.0",
+    "web3": "1.0.0",
+    "pg": "1.0.0"
+  }
+}
